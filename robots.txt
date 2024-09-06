@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://jumbuy.github.io/sitemap/sitemap.txt
